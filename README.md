@@ -53,13 +53,6 @@ Welcome to the Library Management System! This project is designed to help manag
 5. **Borrow and Return Books:**
     - Use GetBookView to borrow and return books.
 
-## Contributing
-
-Contributions are welcome! Please create a pull request or open an issue to discuss your ideas.
-
-## License
-
-This project is licensed under the MIT License.
 
 
 ## ScreenShot
