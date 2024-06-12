@@ -55,7 +55,7 @@ Welcome to the Library Management System! This project is designed to help manag
 
 
 
-## ScreenShot
+## ScreenShots
 ![Library Screen shot and Features_page-0001](https://github.com/Sabarishkris/Library-Management/assets/159115255/adbb4bab-e853-4d7d-b1e4-4804be266abe)
 ![Library Screen shot and Features_page-0002](https://github.com/Sabarishkris/Library-Management/assets/159115255/4b523b60-f63e-425a-b4d2-9cbff6813576)
 ![Library Screen shot and Features_page-0003](https://github.com/Sabarishkris/Library-Management/assets/159115255/ddac5eaf-3cb5-430d-90ac-3336631805b8)
